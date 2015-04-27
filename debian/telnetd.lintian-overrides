@@ -1,0 +1,3 @@
+# This `dont' is part of the DARPA Telnet protocol, not part
+# of a natural language.
+spelling-error-in-binary usr/sbin/in.telnetd dont don't
